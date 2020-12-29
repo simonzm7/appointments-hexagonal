@@ -1,0 +1,12 @@
+Unit Testing
+1File 1
+I must to do a unit testing on Domain folder, testing the service functions -> UserExists and User don't exists
+
+File 2
+
+I must to do a unit testing on Domaing again, this time i must test all bussiness logic
+
+
+
+e2e testing
+i must try controller routes, and all bussiness logic
